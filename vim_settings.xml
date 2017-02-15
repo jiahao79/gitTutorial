@@ -3,11 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1487130284377">
+      <file name="/Dummy.txt" timestamp="1487138833536">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/gitTutorial-master/src/Person.java" timestamp="1487132975890" />
       <file name="/a.dummy" timestamp="1485225372403">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1487138260772">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/gitTutorial/src/Course.java" timestamp="1487131373503">
@@ -18,8 +21,11 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBJbnN0cnVjdG9yKFN0cmluZyBuYW1lLCBTdHJpbmcgZW1haWxBZGRyZXNzLCBTdHJpbmcgdGl0bGUsU3RyaW5nIGZhdkNvdXJzZSl7Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBJbnN0cnVjdG9yKFN0cmluZyBuYW1lLCBTdHJpbmcgZW1haWxBZGRyZXNzLCBTdHJpbmcgdGl0bGUsU3RyaW5nIGZhdkNvdXJzZSl7Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
