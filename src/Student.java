@@ -12,6 +12,6 @@ public class Student extends Person {
     }
 
     public String toString() {
-        return String.format("Name: %s\nMajor: %s\nEmail: %s", this.name, this.major, this.emailAddress, this.fulltime);
+        return String.format("Name: %s\nMajor: %s\nEmail: %s\nFulltime: %b", this.name, this.major, this.emailAddress, this.fulltime);
     }
 }
