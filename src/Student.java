@@ -3,7 +3,6 @@
  */
 public class Student extends Person {
     String major;
-    boolean fulltime;
 
     public Student(String name, String emailAddress, String major,boolean fulltime) {
         super(name, emailAddress);
