@@ -6,12 +6,24 @@
       <file name="/Dummy.txt" timestamp="1488338363877">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/GrailsTutorial/TodoList/grails-app/domain/com/ociweb/TodoList.groovy" timestamp="1488340813508">
+        <mark key="[" line="8" column="11" />
+      </file>
+      <file name="$USER_HOME$/Desktop/GrailsTutorial/TodoList/build.gradle" timestamp="1488341162336">
+        <mark key="[" line="9" column="8" />
+      </file>
       <file name="/a.dummy" timestamp="1485225372403">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/GrailsTutorial/TodoList/grails-app/domain/com/ociweb/Todo.groovy" timestamp="1488341494205">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/Clipboard.txt" timestamp="1487138260772">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/GrailsTutorial/TodoList/grails-app/init/com/ociweb/BootStrap.groovy" timestamp="1488341572759" />
       <file name="$USER_HOME$/IdeaProjects/gitTutorial/src/Course.java" timestamp="1487131373503">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -23,8 +35,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBJbnN0cnVjdG9yKFN0cmluZyBuYW1lLCBTdHJpbmcgZW1haWxBZGRyZXNzLCBTdHJpbmcgdGl0bGUsU3RyaW5nIGZhdkNvdXJzZSl7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBJbnN0cnVjdG9yKFN0cmluZyBuYW1lLCBTdHJpbmcgZW1haWxBZGRyZXNzLCBTdHJpbmcgdGl0bGUsU3RyaW5nIGZhdkNvdXJzZSl7Cg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
         <text />
