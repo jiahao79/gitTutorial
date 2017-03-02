@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/CS2212-Team-2/Code-repo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jiahao79/house.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop/GrailsTutorial" />
