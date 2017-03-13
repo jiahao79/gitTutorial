@@ -9,9 +9,6 @@
       <file name="$USER_HOME$/Desktop/GrailsTutorial/TodoList/grails-app/domain/com/ociweb/TodoList.groovy" timestamp="1488340813508">
         <mark key="[" line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/GrailsTutorial/TodoList/build.gradle" timestamp="1488341162336">
-        <mark key="[" line="9" column="8" />
-      </file>
       <file name="/a.dummy" timestamp="1488398968739">
         <mark key="[" line="0" column="0" />
       </file>
@@ -25,13 +22,16 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1487138260772">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/gitTutorial/src/Course.java" timestamp="1487131373503">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/GrailsTutorial/TodoList/build.gradle" timestamp="1488341162336">
+        <mark key="[" line="9" column="8" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1487138260772">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
