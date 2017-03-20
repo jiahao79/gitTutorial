@@ -25,7 +25,7 @@
         <mark key="]" line="4" column="77" />
         <mark key="." line="4" column="77" />
       </file>
-      <file name="$USER_HOME$/Desktop/Code-repo-master/grails-app/assets/stylesheets/main.css" timestamp="1489976264983">
+      <file name="$USER_HOME$/Desktop/Code-repo-master/grails-app/assets/stylesheets/main.css" timestamp="1490020962124">
         <mark key="[" line="167" column="41" />
         <mark key="]" line="167" column="41" />
         <mark key="." line="167" column="41" />
@@ -39,6 +39,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Code-repo-master/grails-app/assets/stylesheets/style.css" timestamp="1489976440337" />
+      <file name="$USER_HOME$/Desktop/Code-repo-master/grails-app/assets/stylesheets/application.css" timestamp="1490021188006">
+        <mark key="[" line="19" column="90" />
+        <mark key="]" line="19" column="90" />
+        <mark key="." line="19" column="90" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/gitTutorial/src/Course.java" timestamp="1487131373503">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -53,10 +58,10 @@
         <text encoding="base64">ICAgIHB1YmxpYyBJbnN0cnVjdG9yKFN0cmluZyBuYW1lLCBTdHJpbmcgZW1haWxBZGRyZXNzLCBTdHJpbmcgdGl0bGUsU3RyaW5nIGZhdkNvdXJzZSl7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>;</text>
       </register>
     </registers>
     <search>
