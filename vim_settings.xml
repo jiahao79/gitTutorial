@@ -22,11 +22,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Code-repo-master/grails-app/views/index.gsp" timestamp="1490040077769">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="10" column="13" />
-        <mark key="." line="10" column="13" />
-      </file>
+      <file name="$USER_HOME$/Desktop/Code-repo-master/grails-app/views/index.gsp" timestamp="1490044045811" />
       <file name="$USER_HOME$/Desktop/2212-project-code-master/grails-app/demo.html" timestamp="1488579943286">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -54,9 +50,7 @@
       <file name="/Clipboard.txt" timestamp="1487138260772">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Code-repo-master/grails-app/assets/stylesheets/application.css" timestamp="1490040549645">
-        <mark key="[" line="27" column="33" />
-      </file>
+      <file name="$USER_HOME$/Desktop/Code-repo-master/grails-app/assets/stylesheets/application.css" timestamp="1490043943147" />
     </filemarks>
     <jumps>
       <jump line="20" column="16" filename="$USER_HOME$/Desktop/GrailsTutorial/FaceSpace/src/main/js/accountcreation.js" />
