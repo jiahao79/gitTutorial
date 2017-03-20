@@ -22,10 +22,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Code-repo-master/grails-app/views/index.gsp" timestamp="1490036707241">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="13" />
-        <mark key="." line="8" column="13" />
+      <file name="$USER_HOME$/Desktop/Code-repo-master/grails-app/views/index.gsp" timestamp="1490040077769">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="13" />
+        <mark key="." line="10" column="13" />
       </file>
       <file name="$USER_HOME$/Desktop/2212-project-code-master/grails-app/demo.html" timestamp="1488579943286">
         <mark key="[" line="7" column="0" />
@@ -46,7 +46,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Code-repo-master/grails-app/assets/stylesheets/main.css" timestamp="1490037335190">
+      <file name="$USER_HOME$/Desktop/Code-repo-master/grails-app/assets/stylesheets/main.css" timestamp="1490041388895">
         <mark key="[" line="51" column="26" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
@@ -54,10 +54,8 @@
       <file name="/Clipboard.txt" timestamp="1487138260772">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Code-repo-master/grails-app/assets/stylesheets/application.css" timestamp="1490022203025">
-        <mark key="[" line="19" column="90" />
-        <mark key="]" line="19" column="90" />
-        <mark key="." line="19" column="90" />
+      <file name="$USER_HOME$/Desktop/Code-repo-master/grails-app/assets/stylesheets/application.css" timestamp="1490040549645">
+        <mark key="[" line="27" column="33" />
       </file>
     </filemarks>
     <jumps>
