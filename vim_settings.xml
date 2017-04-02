@@ -19,7 +19,6 @@
         <mark key="]" line="12" column="6" />
         <mark key="." line="12" column="6" />
       </file>
-      <file name="$USER_HOME$/Desktop/FaceSpace/src/main/js/statusfeed.js" timestamp="1490840714763" />
       <file name="/a.dummy" timestamp="1488398968739">
         <mark key="[" line="0" column="0" />
       </file>
@@ -33,7 +32,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/FaceSpace/src/main/js/accountcreation.js" timestamp="1490843627098" />
       <file name="$USER_HOME$/Desktop/2212-project-code-master/grails-app/demo.html" timestamp="1488579943286">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -44,7 +42,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/FaceSpace/src/main/js/statusupdate.js" timestamp="1490842175241" />
       <file name="$USER_HOME$/Desktop/GrailsTutorial/TodoList/build.gradle" timestamp="1488341162336">
         <mark key="[" line="9" column="8" />
       </file>
@@ -65,7 +62,7 @@
         <text encoding="base64">PGJvZHkgY2xhc3M9ImluZGV4Ij4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>Created</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybCguLi9pbWFnZXMvc2tpbi8ucG5nKTsK</text>
@@ -74,7 +71,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBJbnN0cnVjdG9yKFN0cmluZyBuYW1lLCBTdHJpbmcgZW1haWxBZGRyZXNzLCBTdHJpbmcgdGl0bGUsU3RyaW5nIGZhdkNvdXJzZSl7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Created</text>
       </register>
     </registers>
     <search>
