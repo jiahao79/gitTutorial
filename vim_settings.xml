@@ -19,6 +19,16 @@
         <mark key="]" line="12" column="6" />
         <mark key="." line="12" column="6" />
       </file>
+      <file name="$USER_HOME$/Desktop/FaceSpace/src/main/java/AccountCreation.java" timestamp="1491101406512">
+        <mark key="[" line="44" column="18" />
+        <mark key="]" line="44" column="18" />
+        <mark key="." line="44" column="18" />
+      </file>
+      <file name="$USER_HOME$/Desktop/FaceSpace/src/main/java/CreateBox.java" timestamp="1491100815322">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+      </file>
       <file name="/a.dummy" timestamp="1488398968739">
         <mark key="[" line="0" column="0" />
       </file>
@@ -42,6 +52,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/FaceSpace/src/main/java/StatusSearch.java" timestamp="1491101419645" />
       <file name="$USER_HOME$/Desktop/GrailsTutorial/TodoList/build.gradle" timestamp="1488341162336">
         <mark key="[" line="9" column="8" />
       </file>
@@ -53,25 +64,29 @@
       <file name="/Clipboard.txt" timestamp="1487138260772">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/FaceSpace/src/main/java/SearchBox.java" timestamp="1491100887261" />
     </filemarks>
     <jumps>
       <jump line="20" column="16" filename="$USER_HOME$/Desktop/GrailsTutorial/FaceSpace/src/main/js/accountcreation.js" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">PGJvZHkgY2xhc3M9ImluZGV4Ij4K</text>
+        <text encoding="base64">Ly8gIEFjY291bnRDcmVhdGlvbiBpcyBjb21wb3NlZCBvZiBhIFNlYXJjaEJveCBhbmQgYSBTdGF0dXNGZWVkLgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Created</text>
+        <text>StatusFeed</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybCguLi9pbWFnZXMvc2tpbi8ucG5nKTsK</text>
+        <text encoding="base64">PGJvZHkgY2xhc3M9ImluZGV4Ij4K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybCguLi9pbWFnZXMvc2tpbi8ucG5nKTsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBJbnN0cnVjdG9yKFN0cmluZyBuYW1lLCBTdHJpbmcgZW1haWxBZGRyZXNzLCBTdHJpbmcgdGl0bGUsU3RyaW5nIGZhdkNvdXJzZSl7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Created</text>
+        <text>StatusFeed</text>
       </register>
     </registers>
     <search>
